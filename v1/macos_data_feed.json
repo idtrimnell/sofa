@@ -1,5 +1,5 @@
 {
-    "LastCheck": "2024-05-15T20:36:00+00:00Z",
+    "LastCheck": "2024-05-16T01:37:26+00:00Z",
     "OSVersions": [
         {
             "OSVersion": "Sonoma 14",
@@ -7,7 +7,7 @@
                 "ProductVersion": "14.5",
                 "Build": "23F79",
                 "ReleaseDate": "2024-05-13T00:00:00Z",
-                "ExpirationDate": "2024-08-13T00:00:00Z",
+                "ExpirationDate": "2024-08-14T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -632,7 +632,7 @@
                 "ProductVersion": "13.6.7",
                 "Build": "22G720",
                 "ReleaseDate": "2024-05-13T00:00:00Z",
-                "ExpirationDate": "2024-08-13T00:00:00Z",
+                "ExpirationDate": "2024-08-14T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -1630,7 +1630,7 @@
                 "ProductVersion": "12.7.5",
                 "Build": "21H1222",
                 "ReleaseDate": "2024-05-13T00:00:00Z",
-                "ExpirationDate": "2024-08-13T00:00:00Z",
+                "ExpirationDate": "2024-08-14T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -2797,7 +2797,7 @@
     },
     "XProtectPlistConfigData": {
         "com.apple.XProtect": "2194",
-        "ReleaseDate": "2024-05-07T16:59:49Z"
+        "ReleaseDate": "2024-05-15T23:16:30Z"
     },
     "Models": {
         "Mac15,13": {
