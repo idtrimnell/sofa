@@ -1,5 +1,5 @@
 {
-    "LastCheck": "2024-05-28T17:04:53+00:00Z",
+    "LastCheck": "2024-05-28T18:08:10+00:00Z",
     "OSVersions": [
         {
             "OSVersion": "Sonoma 14",
@@ -2791,13 +2791,13 @@
         }
     ],
     "XProtectPayloads": {
-        "com.apple.XProtectFramework.XProtect": "133",
+        "com.apple.XProtectFramework.XProtect": "135",
         "com.apple.XprotectFramework.PluginService": "74",
-        "ReleaseDate": "2024-05-02T02:25:12Z"
+        "ReleaseDate": "2024-05-28T17:04:40Z"
     },
     "XProtectPlistConfigData": {
-        "com.apple.XProtect": "2194",
-        "ReleaseDate": "2024-05-15T23:16:30Z"
+        "com.apple.XProtect": "2195",
+        "ReleaseDate": "2024-05-28T17:00:24Z"
     },
     "Models": {
         "Mac15,13": {
