@@ -1,5 +1,5 @@
 {
-    "LastCheck": "2024-05-29T16:38:38+00:00Z",
+    "LastCheck": "2024-05-29T17:06:20+00:00Z",
     "OSVersions": [
         {
             "OSVersion": "Sonoma 14",
@@ -1387,6 +1387,7 @@
                         "CVE-2022-26730": false,
                         "CVE-2022-32945": false,
                         "CVE-2022-42838": false,
+                        "CVE-2022-48683": false,
                         "CVE-2022-22663": false,
                         "CVE-2022-32867": false,
                         "CVE-2022-32205": false,
@@ -1516,7 +1517,7 @@
                         "CVE-2022-42800": false
                     },
                     "ActivelyExploitedCVEs": [],
-                    "UniqueCVEsCount": 156,
+                    "UniqueCVEsCount": 157,
                     "DaysSincePreviousRelease": 0
                 }
             ],
