@@ -1,5 +1,5 @@
 {
-    "LastCheck": "2024-05-29T17:06:20+00:00Z",
+    "LastCheck": "2024-05-29T18:08:24+00:00Z",
     "OSVersions": [
         {
             "OSVersion": "Sonoma 14",
@@ -1718,6 +1718,7 @@
                         "CVE-2024-23269": false,
                         "CVE-2024-23247": false,
                         "CVE-2024-23218": false,
+                        "CVE-2024-23299": false,
                         "CVE-2024-23244": false,
                         "CVE-2024-23270": false,
                         "CVE-2024-23286": false,
@@ -1738,12 +1739,13 @@
                         "CVE-2024-23230": false,
                         "CVE-2024-23204": false,
                         "CVE-2024-23245": false,
-                        "CVE-2024-23272": false
+                        "CVE-2024-23272": false,
+                        "CVE-2023-40389": false
                     },
                     "ActivelyExploitedCVEs": [
                         "CVE-2024-23225"
                     ],
-                    "UniqueCVEsCount": 26,
+                    "UniqueCVEsCount": 28,
                     "DaysSincePreviousRelease": 45
                 },
                 {
