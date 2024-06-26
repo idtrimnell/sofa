@@ -1,5 +1,5 @@
 {
-    "LastCheck": "2024-06-25T20:35:43+00:00Z",
+    "LastCheck": "2024-06-26T01:41:14+00:00Z",
     "OSVersions": [
         {
             "OSVersion": "Sonoma 14",
@@ -7,7 +7,7 @@
                 "ProductVersion": "14.5",
                 "Build": "23F79",
                 "ReleaseDate": "2024-05-13T00:00:00Z",
-                "ExpirationDate": "2024-09-23T00:00:00Z",
+                "ExpirationDate": "2024-09-24T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -659,7 +659,7 @@
                 "ProductVersion": "13.6.7",
                 "Build": "22G720",
                 "ReleaseDate": "2024-05-13T00:00:00Z",
-                "ExpirationDate": "2024-09-23T00:00:00Z",
+                "ExpirationDate": "2024-09-24T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -1677,7 +1677,7 @@
                 "ProductVersion": "12.7.5",
                 "Build": "21H1222",
                 "ReleaseDate": "2024-05-13T00:00:00Z",
-                "ExpirationDate": "2024-09-23T00:00:00Z",
+                "ExpirationDate": "2024-09-24T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
                     "J137AP",
@@ -3724,13 +3724,6 @@
                 "url": "https://swcdn.apple.com/content/downloads/04/13/052-77516-A_4P7VY083DT/83qy3989rsnylxagdmim3owwjdtc33zfe4/InstallAssistant.pkg"
             },
             {
-                "title": "macOS Sonoma",
-                "version": "14.4",
-                "build": "23E214",
-                "apple_slug": "052-62010",
-                "url": "https://swcdn.apple.com/content/downloads/47/20/052-62010-A_IGTQLDJJXD/vu00gjm2kgj82xrpy4z05zgy1hm2e7in1x/InstallAssistant.pkg"
-            },
-            {
                 "title": "macOS Ventura",
                 "version": "13.6.7",
                 "build": "22G720",
@@ -3743,13 +3736,6 @@
                 "build": "22G630",
                 "apple_slug": "052-64249",
                 "url": "https://swcdn.apple.com/content/downloads/39/23/052-64249-A_9F709WX21B/y8u836xffflrewihfvnacmy3p4v8rm3w57/InstallAssistant.pkg"
-            },
-            {
-                "title": "macOS Ventura",
-                "version": "13.6.5",
-                "build": "22G621",
-                "apple_slug": "052-60128",
-                "url": "https://swcdn.apple.com/content/downloads/48/39/052-60128-A_RFELEU0YJU/boswcupcvcju2f3hj5fuaww9wbezcdbkbt/InstallAssistant.pkg"
             },
             {
                 "title": "macOS Monterey",
