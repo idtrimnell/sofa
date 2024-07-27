@@ -1,5 +1,5 @@
 {
-    "LastCheck": "2024-07-26T01:23:12+00:00Z",
+    "LastCheck": "2024-07-27T01:22:23+00:00Z",
     "OSVersions": [
         {
             "OSVersion": "17",
@@ -7,7 +7,7 @@
                 "ProductVersion": "17.5.1",
                 "Build": "21F90",
                 "ReleaseDate": "2024-05-20T00:00:00Z",
-                "ExpirationDate": "2024-10-24T00:00:00Z",
+                "ExpirationDate": "2024-10-25T00:00:00Z",
                 "SupportedDevices": [
                     "iPad11,1",
                     "iPad11,2",
@@ -523,7 +523,7 @@
                 "ProductVersion": "16.7.8",
                 "Build": "20H343",
                 "ReleaseDate": "2024-05-13T00:00:00Z",
-                "ExpirationDate": "2024-10-24T00:00:00Z",
+                "ExpirationDate": "2024-10-25T00:00:00Z",
                 "SupportedDevices": [
                     "iPad6,11",
                     "iPad6,12",
