@@ -1,12 +1,12 @@
 {
-    "LastCheck": "2024-07-29T20:07:58+00:00Z",
+    "LastCheck": "2024-07-29T20:35:02+00:00Z",
     "OSVersions": [
         {
             "OSVersion": "Sonoma 14",
             "Latest": {
-                "ProductVersion": "14.5",
-                "Build": "23F79",
-                "ReleaseDate": "2024-05-13T00:00:00Z",
+                "ProductVersion": "14.6",
+                "Build": "23G80",
+                "ReleaseDate": "2024-07-29T00:00:00Z",
                 "ExpirationDate": "2024-10-27T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
@@ -665,9 +665,9 @@
         {
             "OSVersion": "Ventura 13",
             "Latest": {
-                "ProductVersion": "13.6.7",
-                "Build": "22G720",
-                "ReleaseDate": "2024-05-13T00:00:00Z",
+                "ProductVersion": "13.6.8",
+                "Build": "22G820",
+                "ReleaseDate": "2024-07-29T00:00:00Z",
                 "ExpirationDate": "2024-10-27T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
@@ -1686,9 +1686,9 @@
         {
             "OSVersion": "Monterey 12",
             "Latest": {
-                "ProductVersion": "12.7.5",
-                "Build": "21H1222",
-                "ReleaseDate": "2024-05-13T00:00:00Z",
+                "ProductVersion": "12.7.6",
+                "Build": "21H1320",
+                "ReleaseDate": "2024-07-29T00:00:00Z",
                 "ExpirationDate": "2024-10-27T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
