@@ -1,12 +1,12 @@
 {
-    "LastCheck": "2024-08-07T17:07:44+00:00Z",
+    "LastCheck": "2024-08-07T18:09:18+00:00Z",
     "OSVersions": [
         {
             "OSVersion": "Sonoma 14",
             "Latest": {
-                "ProductVersion": "14.6",
-                "Build": "23G80",
-                "ReleaseDate": "2024-07-29T00:00:00Z",
+                "ProductVersion": "14.6.1",
+                "Build": "23G93",
+                "ReleaseDate": "2024-08-07T00:00:00Z",
                 "ExpirationDate": "2024-11-05T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
@@ -68,6 +68,16 @@
                 ]
             },
             "SecurityReleases": [
+                {
+                    "UpdateName": "macOS Sonoma 14.6.1",
+                    "ProductVersion": "14.6.1",
+                    "ReleaseDate": "2024-08-07T00:00:00Z",
+                    "SecurityInfo": "This update has no published CVE entries.",
+                    "CVEs": {},
+                    "ActivelyExploitedCVEs": [],
+                    "UniqueCVEsCount": 0,
+                    "DaysSincePreviousRelease": 9
+                },
                 {
                     "UpdateName": "macOS Sonoma 14.6",
                     "ProductVersion": "14.6",
@@ -754,9 +764,9 @@
         {
             "OSVersion": "Ventura 13",
             "Latest": {
-                "ProductVersion": "13.6.8",
-                "Build": "22G820",
-                "ReleaseDate": "2024-07-29T00:00:00Z",
+                "ProductVersion": "13.6.9",
+                "Build": "22G830",
+                "ReleaseDate": "2024-08-07T00:00:00Z",
                 "ExpirationDate": "2024-11-05T00:00:00Z",
                 "SupportedDevices": [
                     "J132AP",
@@ -817,6 +827,16 @@
                 ]
             },
             "SecurityReleases": [
+                {
+                    "UpdateName": "macOS Ventura 13.6.9",
+                    "ProductVersion": "13.6.9",
+                    "ReleaseDate": "2024-08-07T00:00:00Z",
+                    "SecurityInfo": "This update has no published CVE entries.",
+                    "CVEs": {},
+                    "ActivelyExploitedCVEs": [],
+                    "UniqueCVEsCount": 0,
+                    "DaysSincePreviousRelease": 9
+                },
                 {
                     "UpdateName": "macOS Ventura 13.6.8",
                     "ProductVersion": "13.6.8",
