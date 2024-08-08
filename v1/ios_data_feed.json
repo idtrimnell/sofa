@@ -1,13 +1,13 @@
 {
-    "LastCheck": "2024-08-07T01:25:35+00:00Z",
+    "LastCheck": "2024-08-08T01:25:21+00:00Z",
     "OSVersions": [
         {
             "OSVersion": "17",
             "Latest": {
-                "ProductVersion": "17.6",
-                "Build": "21G6080",
-                "ReleaseDate": "2024-07-29T00:00:00Z",
-                "ExpirationDate": "2024-11-05T00:00:00Z",
+                "ProductVersion": "17.6.1",
+                "Build": "21G6093",
+                "ReleaseDate": "2024-08-07T00:00:00Z",
+                "ExpirationDate": "2024-11-06T00:00:00Z",
                 "SupportedDevices": [
                     "iPad11,1",
                     "iPad11,2",
@@ -93,6 +93,16 @@
                 ]
             },
             "SecurityReleases": [
+                {
+                    "UpdateName": "iOS 17.6.1 and iPadOS 17.6.1",
+                    "ProductVersion": "17.6.1",
+                    "ReleaseDate": "2024-08-07T00:00:00Z",
+                    "SecurityInfo": "This update has no published CVE entries.",
+                    "CVEs": {},
+                    "ActivelyExploitedCVEs": [],
+                    "UniqueCVEsCount": 0,
+                    "DaysSincePreviousRelease": 9
+                },
                 {
                     "UpdateName": "iOS 17.6 and iPadOS 17.6",
                     "ProductVersion": "17.6",
@@ -569,10 +579,10 @@
         {
             "OSVersion": "16",
             "Latest": {
-                "ProductVersion": "16.7.9",
-                "Build": "20H6348",
-                "ReleaseDate": "2024-07-29T00:00:00Z",
-                "ExpirationDate": "2024-11-05T00:00:00Z",
+                "ProductVersion": "16.7.10",
+                "Build": "20H6350",
+                "ReleaseDate": "2024-08-07T00:00:00Z",
+                "ExpirationDate": "2024-11-06T00:00:00Z",
                 "SupportedDevices": [
                     "iPad6,11",
                     "iPad6,12",
@@ -589,6 +599,16 @@
                 ]
             },
             "SecurityReleases": [
+                {
+                    "UpdateName": "iOS 16.7.10 and iPadOS 16.7.10",
+                    "ProductVersion": "16.7.10",
+                    "ReleaseDate": "2024-08-07T00:00:00Z",
+                    "SecurityInfo": "This update has no published CVE entries.",
+                    "CVEs": {},
+                    "ActivelyExploitedCVEs": [],
+                    "UniqueCVEsCount": 0,
+                    "DaysSincePreviousRelease": 9
+                },
                 {
                     "UpdateName": "iOS 16.7.9 and iPadOS 16.7.9",
                     "ProductVersion": "16.7.9",
