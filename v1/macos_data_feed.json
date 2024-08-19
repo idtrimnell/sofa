@@ -1,5 +1,5 @@
 {
-    "LastCheck": "2024-08-19T18:09:32+00:00Z",
+    "LastCheck": "2024-08-19T19:05:19+00:00Z",
     "OSVersions": [
         {
             "OSVersion": "Sonoma 14",
@@ -3090,9 +3090,9 @@
         }
     ],
     "XProtectPayloads": {
-        "com.apple.XProtectFramework.XProtect": "142",
+        "com.apple.XProtectFramework.XProtect": "141",
         "com.apple.XprotectFramework.PluginService": "74",
-        "ReleaseDate": "2024-08-19T17:14:29Z"
+        "ReleaseDate": "2024-08-19T18:04:50Z"
     },
     "XProtectPlistConfigData": {
         "com.apple.XProtect": "5271",
