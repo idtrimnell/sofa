@@ -1,5 +1,5 @@
 {
-    "LastCheck": "2024-08-28T17:06:23+00:00Z",
+    "LastCheck": "2024-08-28T18:09:47+00:00Z",
     "OSVersions": [
         {
             "OSVersion": "Sonoma 14",
@@ -3095,8 +3095,8 @@
         "ReleaseDate": "2024-08-20T17:08:31Z"
     },
     "XProtectPlistConfigData": {
-        "com.apple.XProtect": "5271",
-        "ReleaseDate": "2024-08-06T19:48:03Z"
+        "com.apple.XProtect": "5272",
+        "ReleaseDate": "2024-08-28T17:03:35Z"
     },
     "Models": {
         "Mac15,13": {
